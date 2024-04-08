@@ -1,0 +1,14 @@
+.button {
+    font-size: 28px;
+    font-family: Helvatica, "Times New Roman", sans-serif;
+}
+
+.passive {
+    background-color: #000;
+    color: #fff;
+    font-weight: bold;
+}
+
+.aggressive {
+    background-color: #ff0;
+}

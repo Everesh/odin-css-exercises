@@ -1,0 +1,18 @@
+.pinkish {
+    background-color: #f99;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: #00f;
+    font-size: 36px;
+}
+
+.size24 {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #9f9;
+    font-weight: bold;
+}
